@@ -12,5 +12,6 @@ model_provider = "ollama3"
 [model_providers.ollama3]
 name = "Ollama"
 base_url = "http://localhost:3000/v1"
+env_key = "API KEY from Open WebUI Settings > Account"
 
 ```
