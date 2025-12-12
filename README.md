@@ -6,6 +6,8 @@ http://localhost:3000
 
 API KEY from Open WebUI Settings > Account
 
+Create api-users group, give all permissions, add admin user to group.
+
 model = "ollama3"
 model_provider = "ollama3"
 
