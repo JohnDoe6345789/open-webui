@@ -4,7 +4,7 @@
 fastapi==0.123.0
 uvicorn[standard]==0.37.0
 pydantic==2.12.5
-python-multipart==0.0.20
+python-multipart==0.0.22
 itsdangerous==2.2.0
 
 python-socketio==5.15.0
@@ -13,10 +13,10 @@ cryptography
 bcrypt==5.0.0
 argon2-cffi==25.1.0
 PyJWT[crypto]==2.10.1
-authlib==1.6.5
+authlib==1.6.7
 
 requests==2.32.5
-aiohttp==3.12.15
+aiohttp==3.13.3
 async-timeout
 aiocache
 aiofiles
@@ -38,7 +38,7 @@ RestrictedPython==8.0
 loguru==0.7.3
 asgiref==3.11.0
 
-mcp==1.22.0
+mcp==1.23.0
 openai
 
 langchain==0.3.27
