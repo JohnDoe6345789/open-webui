@@ -1,7 +1,7 @@
 fastapi==0.123.0
 uvicorn[standard]==0.37.0
 pydantic==2.12.5
-python-multipart==0.0.20
+python-multipart==0.0.22
 itsdangerous==2.2.0
 
 python-socketio==5.15.0
@@ -10,10 +10,10 @@ cryptography
 bcrypt==5.0.0
 argon2-cffi==25.1.0
 PyJWT[crypto]==2.10.1
-authlib==1.6.5
+authlib==1.6.9
 
 requests==2.32.5
-aiohttp==3.12.15
+aiohttp==3.13.3
 async-timeout
 aiocache
 aiofiles
@@ -37,7 +37,7 @@ asgiref==3.11.0
 
 # AI libraries
 tiktoken
-mcp==1.22.0
+mcp==1.23.0
 
 openai
 anthropic
@@ -60,14 +60,14 @@ einops==0.8.1
 
 ftfy==6.3.1
 chardet==5.2.0
-pypdf==6.4.0
+pypdf==6.9.1
 fpdf2==2.8.2
 pymdown-extensions==10.17.2
 docx2txt==0.8
 python-pptx==1.0.2
 unstructured==0.18.21
 msoffcrypto-tool==5.4.2
-nltk==3.9.1
+nltk==3.9.3
 Markdown==3.10
 pypandoc==1.16.2
 pandas==2.2.3
@@ -79,7 +79,7 @@ psutil
 sentencepiece
 soundfile==0.13.1
 
-pillow==11.3.0
+pillow==12.1.1
 opencv-python-headless==4.11.0.86
 rapidocr-onnxruntime==1.4.4
 rank-bm25==0.2.2
@@ -87,7 +87,7 @@ rank-bm25==0.2.2
 onnxruntime==1.20.1
 faster-whisper==1.1.1
 
-black==25.11.0
+black==26.3.1
 youtube-transcript-api==1.2.2
 pytube==15.0.0
 
